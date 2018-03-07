@@ -1,0 +1,6 @@
+{
+    "name": "meanhotel",
+    "dependencies": {
+        "octicons": "*"
+    }
+}
